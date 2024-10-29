@@ -20,12 +20,12 @@ The Contact Manager App is an Android application designed to allow users to eas
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/contact-manager-app.git
+   git clone https://github.com/assia1905/contact_manager
 2. Open the project in Android Studio.
 3. Ensure you have the necessary permissions to read contacts in your Android manifest file:
    <uses-permission android:name="android.permission.READ_CONTACTS"/>
 4. Run the app on your Android device or emulator.
 ## Demonstration en video
-- 
+- https://github.com/user-attachments/assets/f7bf3b6a-96fd-478f-9261-9eb601491c3f
 ## Auteur
 - AsSia BOUJNAH
